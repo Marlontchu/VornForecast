@@ -48,8 +48,8 @@ optional encrypted cloud sync. No tracking, no advertising.
 
 - **Website / Live Demo:** [vornforecast.com](https://vornforecast.com)
 - **Launch the App:** [app.vornforecast.com](https://app.vornforecast.com)
-- **Imprint / Privacy / Terms:** [/impressum](https://www.vornforecast.com/impressum) ·
-  [/datenschutz](https://www.vornforecast.com/datenschutz) · [/agb](https://www.vornforecast.com/agb)
+- **Imprint / Privacy / Terms:** [/impressum](https://vornforecast.com/impressum) ·
+  [/datenschutz](https://vornforecast.com/datenschutz) · [/agb](https://vornforecast.com/agb)
 - **Contact:** [support@vornforecast.com](mailto:support@vornforecast.com)
 
 ## Status
