@@ -12,7 +12,7 @@
 already spent, Vorn Forecast answers the question that actually matters: **"How much can I safely
 spend to still reach my goals?"** — quietly, and to the day.
 
-> Tagline: *See your money forward.*
+> Tagline: *Your money. One step ahead.*
 
 ---
 
