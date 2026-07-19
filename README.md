@@ -46,7 +46,7 @@ optional encrypted cloud sync. No tracking, no advertising.
 
 ## Links
 
-- **Website / Live Demo:** [vornforecast.com](https://www.vornforecast.com)
+- **Website / Live Demo:** [vornforecast.com](https://vornforecast.com)
 - **Launch the App:** [app.vornforecast.com](https://app.vornforecast.com)
 - **Imprint / Privacy / Terms:** [/impressum](https://www.vornforecast.com/impressum) ·
   [/datenschutz](https://www.vornforecast.com/datenschutz) · [/agb](https://www.vornforecast.com/agb)
