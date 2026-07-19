@@ -6,7 +6,7 @@
   Do NOT expose source code here — the code repo stays private.
 -->
 
-# Vorn Forecast — See your money forward.
+# Vorn Forecast — Your money. One step ahead.
 
 **A forward-looking, privacy-first financial planner.** Instead of looking back at what you
 already spent, Vorn Forecast answers the question that actually matters: **"How much can I safely
